@@ -1,4 +1,4 @@
-# GCP-Certifiecation
+# GCP-White-Paper-Note
 
 ## Google Cloud Platform
 ![GCP](https://cloud.google.com/docs/images/overview/regions-zones.svg)
